@@ -1,3 +1,4 @@
 Hi I started learning Github
 From today I'll be going to be punctual
 First day is to see 5 videos of git & gitub repository
+Be punctual all the time
